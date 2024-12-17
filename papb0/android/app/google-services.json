@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274550852213",
+    "project_id": "papb-45fc1",
+    "storage_bucket": "papb-45fc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274550852213:android:9e35210f943a92e42b463c",
+        "android_client_info": {
+          "package_name": "com.example.papb2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdUAX1muXy8K68rblGhEYRfZmH_ztt7WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
